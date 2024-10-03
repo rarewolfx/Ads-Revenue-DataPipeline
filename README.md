@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Google Apps Revenue Data Pipeline</h1>
+<h1>Apps Revenue Data Pipeline</h1>
 </div>
 
 ## Installation steps
