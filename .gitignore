@@ -1,0 +1,7 @@
+**datasheets
+rev_env/
+cronjob.log
+__pycache__
+earnings/
+datasheets/
+sales/
